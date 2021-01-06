@@ -224,12 +224,55 @@ namespace QuanLyCinema.Giao_Diện_Khách_hàng
             txtThu7.Text = string_Monday_Thu2((number_dayofweek + 6) % 7);
 
             btnNgay1_Click(sender, e);
-            timer.Interval = TimeSpan.FromSeconds(1);
-            timer.Tick += timer_Tick;
-            timer.Start();
+
+            timer_today.Interval = TimeSpan.FromSeconds(1);
+            timer_today.Tick += timer_today_Tick;
+            timer_today.Start();
+
+            timer_nextday.Interval = TimeSpan.FromSeconds(1);
+            timer_nextday.Tick += timer_nextday_Tick;
+            timer_nextday.Stop();
         }
 
-        void AddButtonCaChieu()
+        void AddButtonCaChieu_Today()
+        {
+            // lấy số lượng phòng chiếu của rạp, từ đó datagrid sẽ thêm số lượng cột là số lượng phòng chiếu
+            DataTable DT_DatVe = new DataTable();
+            DT_DatVe = LichChieuBUS.DatVe_Phim_NgayChieu(MaPhim, NgayChieu);
+            soluong_cachieu = DT_DatVe.Rows.Count;
+
+            if (soluong_cachieu == 0)
+            {
+                MessageBox.Show("Hiện tại chưa có lịch chiếu của ngày bạn đã chọn");
+            }
+            else
+            {
+                for (int i = 0; i < soluong_cachieu; i++)
+                {
+                    object[] a = new object[6];
+                    a = DT_DatVe.Rows[i].ItemArray;
+                    Button button = new Button();
+
+                    button.Name = a[3].ToString();
+                    DateTime batdau_temp = DateTime.Parse(a[4].ToString());
+                    string batdau = batdau_temp.TimeOfDay.ToString();
+                    button.Content = batdau;
+                    button.FontSize = 17;
+                    button.Width = 140;
+                    button.Height = 45;
+                    button.Margin = new Thickness(5, 5, 10, 5);
+                    button.Click += Button_Click;
+                    if(batdau_temp.Hour <= DateTime.Now.Hour)
+                    {
+                        button.IsEnabled = false;
+                    }
+                    panelChonNgayChieu_CaChieu_ThuDuc.Children.Add(button);
+                }
+            }
+
+        }
+
+        void AddButtonCaChieu_NextDay()
         {
             // lấy số lượng phòng chiếu của rạp, từ đó datagrid sẽ thêm số lượng cột là số lượng phòng chiếu
             DataTable DT_DatVe = new DataTable();
@@ -258,6 +301,7 @@ namespace QuanLyCinema.Giao_Diện_Khách_hàng
                     button.Height = 45;
                     button.Margin = new Thickness(5, 5, 10, 5);
                     button.Click += Button_Click;
+                  
                     panelChonNgayChieu_CaChieu_ThuDuc.Children.Add(button);
                 }
             }
@@ -289,16 +333,28 @@ namespace QuanLyCinema.Giao_Diện_Khách_hàng
             //ExpanderCinemaThuDuc.Visibility = Visibility.Visible;
         }
 
-        DispatcherTimer timer = new DispatcherTimer();
+        DispatcherTimer timer_today = new DispatcherTimer();
+        DispatcherTimer timer_nextday = new DispatcherTimer();
 
-        void timer_Tick(object sender, EventArgs e)
+        void timer_today_Tick(object sender, EventArgs e)
         {
-            double a = timer.Interval.TotalSeconds;
-            if (timer.Interval.TotalSeconds >= 1)
+            double a = timer_today.Interval.TotalSeconds;
+            if (timer_today.Interval.TotalSeconds >= 1)
             {
                 ExpanderCinemaThuDuc.IsExpanded = true;
-                timer.Stop();
-                AddButtonCaChieu();
+                timer_today.Stop();
+                AddButtonCaChieu_Today();
+            }
+        }
+
+        void timer_nextday_Tick(object sender, EventArgs e)
+        {
+            double a = timer_nextday.Interval.TotalSeconds;
+            if (timer_today.Interval.TotalSeconds >= 1)
+            {
+                ExpanderCinemaThuDuc.IsExpanded = true;
+                timer_nextday.Stop();
+                AddButtonCaChieu_NextDay();
             }
         }
 
@@ -309,7 +365,7 @@ namespace QuanLyCinema.Giao_Diện_Khách_hàng
             NgayChieu = txtNgay1.Text + "/" + DateTime.Now.Year.ToString();
             panelChonNgayChieu_CaChieu_ThuDuc.Children.Clear();
             ExpanderCinemaThuDuc.IsExpanded = false;
-            timer.Start();
+            timer_today.Start();
         }
 
         private void btnNgay2_Click(object sender, RoutedEventArgs e)
@@ -319,7 +375,7 @@ namespace QuanLyCinema.Giao_Diện_Khách_hàng
             NgayChieu = txtNgay2.Text + "/" + DateTime.Now.Year.ToString();
             panelChonNgayChieu_CaChieu_ThuDuc.Children.Clear();
             ExpanderCinemaThuDuc.IsExpanded = false;
-            timer.Start();
+            timer_nextday.Start();
         }
 
         private void btnNgay3_Click(object sender, RoutedEventArgs e)
@@ -329,7 +385,7 @@ namespace QuanLyCinema.Giao_Diện_Khách_hàng
             NgayChieu = txtNgay2.Text + "/" + DateTime.Now.Year.ToString();
             panelChonNgayChieu_CaChieu_ThuDuc.Children.Clear();
             ExpanderCinemaThuDuc.IsExpanded = false;
-            timer.Start();
+            timer_nextday.Start();
         }
 
         private void btnNgay4_Click(object sender, RoutedEventArgs e)
@@ -339,7 +395,7 @@ namespace QuanLyCinema.Giao_Diện_Khách_hàng
             NgayChieu = txtNgay2.Text + "/" + DateTime.Now.Year.ToString();
             panelChonNgayChieu_CaChieu_ThuDuc.Children.Clear();
             ExpanderCinemaThuDuc.IsExpanded = false;
-            timer.Start();
+            timer_nextday.Start();
         }
 
         private void btnNgay5_Click(object sender, RoutedEventArgs e)
@@ -349,7 +405,7 @@ namespace QuanLyCinema.Giao_Diện_Khách_hàng
             NgayChieu = txtNgay2.Text + "/" + DateTime.Now.Year.ToString();
             panelChonNgayChieu_CaChieu_ThuDuc.Children.Clear();
             ExpanderCinemaThuDuc.IsExpanded = false;
-            timer.Start();
+            timer_nextday.Start();
         }
 
         private void btnNgay6_Click(object sender, RoutedEventArgs e)
@@ -359,7 +415,7 @@ namespace QuanLyCinema.Giao_Diện_Khách_hàng
             NgayChieu = txtNgay2.Text + "/" + DateTime.Now.Year.ToString();
             panelChonNgayChieu_CaChieu_ThuDuc.Children.Clear();
             ExpanderCinemaThuDuc.IsExpanded = false;
-            timer.Start();
+            timer_nextday.Start();
         }
 
         private void btnNgay7_Click(object sender, RoutedEventArgs e)
@@ -369,7 +425,7 @@ namespace QuanLyCinema.Giao_Diện_Khách_hàng
             NgayChieu = txtNgay2.Text + "/" + DateTime.Now.Year.ToString();
             panelChonNgayChieu_CaChieu_ThuDuc.Children.Clear();
             ExpanderCinemaThuDuc.IsExpanded = false;
-            timer.Start();
+            timer_nextday.Start();
         }
     }
 }

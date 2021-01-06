@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pham Quoc Trung\\Downloads\\DoAnOAD-master (1)\\DoAnOAD-master\\API\\API\\API.csproj": {}
+    "C:\\Users\\Pham Quoc Trung\\Desktop\\DoAnOAD\\API\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pham Quoc Trung\\Downloads\\DoAnOAD-master (1)\\DoAnOAD-master\\API\\API\\API.csproj": {
+    "C:\\Users\\Pham Quoc Trung\\Desktop\\DoAnOAD\\API\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pham Quoc Trung\\Downloads\\DoAnOAD-master (1)\\DoAnOAD-master\\API\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Pham Quoc Trung\\Desktop\\DoAnOAD\\API\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Pham Quoc Trung\\Downloads\\DoAnOAD-master (1)\\DoAnOAD-master\\API\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Pham Quoc Trung\\Desktop\\DoAnOAD\\API\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Pham Quoc Trung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pham Quoc Trung\\Downloads\\DoAnOAD-master (1)\\DoAnOAD-master\\API\\API\\obj\\",
+        "outputPath": "C:\\Users\\Pham Quoc Trung\\Desktop\\DoAnOAD\\API\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pham Quoc Trung\\AppData\\Roaming\\NuGet\\NuGet.Config",

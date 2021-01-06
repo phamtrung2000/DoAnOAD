@@ -292,6 +292,8 @@ namespace QuanLyCinema.Giao_Diện_Khách_hàng
                 if (count > 5)
                 {
                     MessageBox.Show("Khong duoc dat qua 5 ve");
+                    button.Background = Brushes.White;
+                    button.Foreground = Brushes.Black;
                 }
                 else
                 {
