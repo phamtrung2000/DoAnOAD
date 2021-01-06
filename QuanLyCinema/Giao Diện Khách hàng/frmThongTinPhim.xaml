@@ -1,0 +1,47 @@
+﻿<UserControl x:Class="QuanLyCinema.Giao_Diện_Khách_hàng.frmThongTinPhim"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QuanLyCinema.Giao_Diện_Khách_hàng"
+                      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             
+             mc:Ignorable="d" 
+           d:DesignHeight="620" d:DesignWidth="950">
+
+    <Grid  x:Name="GridfrmThongTinPhim" Loaded="GridfrmThongTinPhim_Loaded" >
+        <ScrollViewer Margin="0,0,0,10">
+            <Grid Height="610">
+                <Grid Height="537" Margin="27,66,9.6,0" VerticalAlignment="Top" Background="Transparent" Opacity="0.9">
+                    <Grid x:Name="gridImage" Margin="10,10,721.4,255" Width="165" >
+                        <Canvas Height="260" Width="165" HorizontalAlignment="Left" Name="canvas1" VerticalAlignment="Top"  Margin="0,0,-2,-39" />
+                    </Grid>
+                    <TextBlock x:Name="txtND" Text="aaaaaaaaaaa" FontSize="15" Opacity="1.0" Margin="19,319,10.4,10" Foreground="White" TextWrapping="Wrap"/>
+                    <Grid Name="GridThongTinPhim" Margin="182,10,10,251" Background="Transparent">
+                        <TextBlock TextAlignment="Left" Text="aaaaaaaaa" x:Name="lblTenPhim" IsEnabled="False" Opacity="1"  Margin="2,3,1.5,206" FontSize="25" Foreground="Red" TextWrapping="WrapWithOverflow" FontWeight="Bold" FontStyle="Italic"/>
+
+                        <TextBlock x:Name="txtDaoDien" HorizontalAlignment="Left" Margin="64,75,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="20" Width="630" Foreground="#FFFBFBFB"/>
+                        <TextBlock x:Name="txtNamSX" HorizontalAlignment="Left" Margin="86,159,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="20" Width="608"  Foreground="#FFFBFBFB"/>
+                        <TextBlock x:Name="txtNuocSX" HorizontalAlignment="Left" Margin="86,196,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="20" Width="608"  Foreground="#FFFBFBFB"/>
+                        <TextBlock x:Name="txtThoiLuong" HorizontalAlignment="Left" Margin="68,221,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="20" Width="626"  Foreground="#FFFBFBFB"/>
+                        <TextBlock x:Name="txtTheLoai" HorizontalAlignment="Left" Margin="68,246,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="20" Width="626"  Foreground="#FFFBFBFB"/>
+                        <TextBlock x:Name="txtDanhGIa" HorizontalAlignment="Left" Margin="69,236,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="20" Width="626"  Foreground="#FFFBFBFB"/>
+                        <TextBlock x:Name="txtDienVien" HorizontalAlignment="Left" Margin="64,109,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="630" Height="45" Foreground="#FFFBFBFB"/>
+
+                        <Label Content="Thể loại: " Foreground="White" FontSize="10" Height="20" Margin="0,246,646.5,10"></Label>
+                        <Label Content="Thời lượng: " Foreground="White" FontSize="10" Height="20" Margin="0,221,646.5,35"></Label>
+                        <Label Content="Nước sản xuất: " Foreground="White" FontSize="10" Height="20" Margin="0,196,628.5,60"></Label>
+                        <Label Content="Năm sản xuất: " Foreground="White" FontSize="10" Margin="0,159,628.5,97"/>
+                        <Label Content="Diễn viên: " Foreground="White" FontSize="10" Height="20" Margin="2,109,646.5,147"></Label>
+                        <Label Content="Đạo Diễn: " Foreground="White" FontSize="10" Height="20" Margin="2,75,646.5,181"></Label>
+                    </Grid>
+                    <Label Content="Mô tả nội dung: " FontFamily="Time new roman" FontSize="13" Foreground="White" Margin="23,287,751.4,223"/>
+                </Grid>
+                <Button x:Name="btBack" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" Margin="28,10,858,562" Height="38" Width="Auto" RenderTransformOrigin="0.4,0.76" Click="btBack_Click">
+                    <materialDesign:PackIcon Kind="ArrowBack" Height="24" Width="24" />
+                </Button>
+            </Grid>
+        </ScrollViewer>
+    </Grid>
+
+</UserControl>

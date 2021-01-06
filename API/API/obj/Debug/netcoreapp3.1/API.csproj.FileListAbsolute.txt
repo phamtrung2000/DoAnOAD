@@ -1,0 +1,106 @@
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\appsettings.json
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\API.exe
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\API.deps.json
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\API.dll
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\API.pdb
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\QuanLyTV-master\DemoAPI-master\API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\QuanLyTV-master\DemoAPI-master\API\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+H:\QuanLyTV-master\DemoAPI-master\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+H:\QuanLyTV-master\DemoAPI-master\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+H:\QuanLyTV-master\DemoAPI-master\API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
+H:\QuanLyTV-master\DemoAPI-master\API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+H:\QuanLyTV-master\DemoAPI-master\API\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+H:\QuanLyTV-master\DemoAPI-master\API\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+H:\QuanLyTV-master\DemoAPI-master\API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+H:\QuanLyTV-master\DemoAPI-master\API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+H:\QuanLyTV-master\DemoAPI-master\API\API\obj\Debug\netcoreapp3.1\API.dll
+H:\QuanLyTV-master\DemoAPI-master\API\API\obj\Debug\netcoreapp3.1\API.pdb
+H:\QuanLyTV-master\DemoAPI-master\API\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\API.exe
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\API.deps.json
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\API.dll
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\API.pdb
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DoAnOAD\API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DoAnOAD\API\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+D:\DoAnOAD\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+D:\DoAnOAD\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+D:\DoAnOAD\API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
+D:\DoAnOAD\API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+D:\DoAnOAD\API\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+D:\DoAnOAD\API\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+D:\DoAnOAD\API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\DoAnOAD\API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+D:\DoAnOAD\API\API\obj\Debug\netcoreapp3.1\API.dll
+D:\DoAnOAD\API\API\obj\Debug\netcoreapp3.1\API.pdb
+D:\DoAnOAD\API\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\API\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache

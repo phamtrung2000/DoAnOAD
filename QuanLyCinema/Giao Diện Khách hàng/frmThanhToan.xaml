@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="QuanLyCinema.Giao_Diện_Khách_hàng.frmThanhToan"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QuanLyCinema.Giao_Diện_Khách_hàng"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+             mc:Ignorable="d" 
+             d:DesignHeight="620" d:DesignWidth="950">
+    <Grid x:Name="GridThanhToan" Loaded="GridThanhToan_Loaded">
+
+        <Button x:Name="bt_back" Click="bt_back_Click"
+  Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}"
+   Margin="29,30,881.4,550">
+            <materialDesign:PackIcon
+    Kind="ArrowBack"
+    Height="24"
+    Width="24" />
+        </Button>
+
+        <materialDesign:PackIcon Width="50" Height="50" Foreground="White" Kind="Ticket" Margin="291,30,0,0"></materialDesign:PackIcon>
+        <Label Content="Mua Vé Trực Tuyến" FontFamily="Time new roman" FontSize="28" HorizontalAlignment="Left" Height="45" Margin="346,35,0,0" VerticalAlignment="Top" Width="255" Foreground="#DDF9F9F9"/>
+        <Grid HorizontalAlignment="Left" Height="405" Margin="100,130,0,0" VerticalAlignment="Top" Width="780" Background="#FF9E8B8B">
+            <WrapPanel  x:Name="gridChiTietThanhToan">
+                <DockPanel HorizontalAlignment="Left" Height="50" LastChildFill="False" VerticalAlignment="Top" Width="780">
+                    <Label Content="Mô tả" Height="50" VerticalAlignment="Top" Width="385" FontSize="20" Foreground="#DDF9F9F9"/>
+                    <Label Content="Số lượng" Height="50" VerticalAlignment="Top" Width="195" FontSize="20" Foreground="#DDF9F9F9"/>
+                    <Label Content="Thành tiền" Height="50" VerticalAlignment="Top" Width="200" FontSize="20" Foreground="#DDF9F9F9"/>
+                </DockPanel>
+                <!--<DockPanel Width="780" Height="50">
+                    <Label x:Name="lblLoaiVe" Content="Loại vé" Height="50"  Width="385" FontSize="20" Foreground="#DDF9F9F9"/>
+                    <Label x:Name="lblSoLuong" Content="Số lượng" Height="50"  Width="195" FontSize="20" Foreground="#DDF9F9F9"/>
+                    <Label x:Name="lblThanhTien" Content="Thành tiền" Height="50"  Width="200" FontSize="20" Foreground="#DDF9F9F9"/>
+                </DockPanel>-->
+            </WrapPanel>
+
+        </Grid>
+        <Button Name="btnXacNhan" Content="Xác Nhận" Margin="625,560,65,28" Click="btnXacNhan_Click"/>
+    </Grid>
+</UserControl>

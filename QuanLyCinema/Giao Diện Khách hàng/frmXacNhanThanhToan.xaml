@@ -1,0 +1,63 @@
+﻿<Window x:Class="QuanLyCinema.Giao_Diện_Khách_hàng.frmXacNhanThanhToan"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuanLyCinema.Giao_Diện_Khách_hàng"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        mc:Ignorable="d" Height="700" Width="717.5"
+        WindowStartupLocation="CenterScreen">
+    <Grid x:Name="GridXacNhanThanhToan" Background="#FFFDFDFD" Loaded="GridXacNhanThanhToan_Loaded">
+        <StackPanel Margin="0,0,0.5,0.5">
+            <GroupBox Header="  Xác Nhận Thanh Toán" FontSize="30" HorizontalAlignment="Left" Height="555" VerticalAlignment="Top" Width="712" BorderBrush="#FFF3F5F6">
+                <Grid>
+                    <StackPanel>
+                        <DockPanel Height="50" Margin="5,10,5,10">
+                            <TextBlock Name="lblTenRap" Text="Rạp:" TextAlignment="Center" FontSize="25" Width="121" Margin="0,10"/>
+                            <TextBox x:Name="txtTenRap" Text="Cinema Linh Trung" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="25" BorderBrush="#89EBDBDB"/>
+                        </DockPanel>
+
+                        <DockPanel Height="50" Margin="5,10,5,10">
+                            <TextBlock Name="lblTenPhim" Text="Tên phim:" TextAlignment="Center" FontSize="25" Width="121" Margin="0,10"/>
+                            <TextBox x:Name="txtTenPhim" Text="aaaaaaaaaaaa" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="20" BorderBrush="#89EBDBDB"/>
+                        </DockPanel>
+
+                        <DockPanel Height="50" Margin="5,10,5,10">
+                            <TextBlock Name="lblGhe" Text="Ghế đặt:" TextAlignment="Center" FontSize="25" Width="121" Margin="0,10"/>
+                            <TextBox x:Name="txtGhe" Text="aaaaaaaaaaaa" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="25" BorderBrush="#89EBDBDB"/>
+                        </DockPanel>
+
+                        <DockPanel Height="50" Margin="5,10,5,10">
+                            <TextBlock Name="lblCaChieu" Text="Ca chiếu:" TextAlignment="Center" FontSize="25" Width="121" Margin="0,10"/>
+                            <TextBox x:Name="txtCaChieu" Text="aaaaaaaaaaaa" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="25" BorderBrush="#89EBDBDB"/>
+                        </DockPanel>
+
+                        <DockPanel Height="50" Margin="5,10,5,10">
+                            <TextBlock Name="lblPhongChieu" Text="Phòng chiếu:" TextAlignment="Center" FontSize="25" Width="161" Margin="0,10,0,0"/>
+                            <TextBox x:Name="txtPhongChieu" Text="aaaaaaaaaaaa" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="25" BorderBrush="#89EBDBDB" Width="445"/>
+                        </DockPanel>
+
+                        <DockPanel Height="50" Margin="5,10,5,10">
+                            <TextBlock Name="lblNgayChieu" Text="Ngày chiếu:" TextAlignment="Center" FontSize="25" Width="161" Margin="0,10,0,0"/>
+                            <TextBox x:Name="txtNgayChieu" Text="aaaaaaaaaaaa" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="25" BorderBrush="#89EBDBDB" Width="445"/>
+                        </DockPanel>
+
+                        <DockPanel Height="50" Margin="5,10,5,10">
+                            <TextBlock Name="lblNgayMua" Text="Ngày đặt vé:" TextAlignment="Center" FontSize="25" Width="161" Margin="0,10,0,0"/>
+                            <TextBox x:Name="txtNgayMua" Text="aaaaaaaaaaaa" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="25" BorderBrush="#89EBDBDB" Width="445"/>
+                        </DockPanel>
+
+                    </StackPanel>
+                </Grid>
+            </GroupBox>
+            <DockPanel>
+                <Button Name="btnXacNhan" Content="Tiến hành thanh toán" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Height="48"
+                 Margin="40,10,30,10" VerticalAlignment="Top" Width="280" Background="#FFED3729"
+                Click="btnXacNhan_Click"/>
+                <Button Name="btnHuy" Content="Hủy" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Height="48"
+                 Margin="20,10,10,10" VerticalAlignment="Top" Width="280" Background="#FFED3729"
+                Click="btnHuy_Click"/>
+            </DockPanel>
+        </StackPanel>
+    </Grid>
+</Window>

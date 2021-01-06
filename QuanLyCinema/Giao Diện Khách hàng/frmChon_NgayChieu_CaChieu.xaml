@@ -1,0 +1,102 @@
+﻿<UserControl x:Class="QuanLyCinema.Giao_Diện_Khách_hàng.frmChon_NgayChieu_CaChieu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QuanLyCinema.Giao_Diện_Khách_hàng"
+              xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" 
+             d:DesignHeight="620" d:DesignWidth="950">
+    <Grid x:Name="Grid_Chon_NgayChieu_CaChieu" Loaded="Grid_Chon_NgayChieu_CaChieu_Loaded">
+
+        <Grid Margin="13,120,7,375">
+            <WrapPanel x:Name="wpNgayChieu" Margin="45,5,40,10" Height="110">
+
+                <Button x:Name="btnNgay1" Height="100" Width="110" Margin="5,5,5,5" Style="{StaticResource MaterialDesignRaisedDarkButton}" Background="AliceBlue" Click="btnNgay1_Click">
+                    <StackPanel Width="70" Height="60">
+                        <TextBlock x:Name="txtNgay1" Text="5/1" FontSize="20" TextAlignment="Center" Foreground="#FF1443E3" Height="30"/>
+                        <TextBlock x:Name="txtThu1" Text="Th3" FontSize="20" TextAlignment="Center" Foreground="#FF1443E3" Height="30"/>
+                    </StackPanel>
+                </Button>
+
+                <Button x:Name="btnNgay2" Height="100" Width="110" Margin="5,5,5,5" Style="{StaticResource MaterialDesignRaisedDarkButton}" Background="AliceBlue" Click="btnNgay2_Click">
+                    <StackPanel Width="68" Height="60">
+                        <TextBlock x:Name="txtNgay2" Text="5/1" FontSize="20" TextAlignment="Center" Foreground="#FF1443E3" Height="30"/>
+                        <TextBlock x:Name="txtThu2" Text="Th3" FontSize="20" TextAlignment="Center" Foreground="#FF1443E3" Height="30"/>
+                    </StackPanel>
+                </Button>
+
+                <Button x:Name="btnNgay3" Height="100" Width="110" Margin="5,5,5,5" Style="{StaticResource MaterialDesignRaisedDarkButton}" Background="AliceBlue" Click="btnNgay3_Click">
+                    <StackPanel Width="68" Height="60">
+                        <TextBlock x:Name="txtNgay3" Text="5/1" FontSize="20" TextAlignment="Center" Foreground="#FF1443E3" Height="30"/>
+                        <TextBlock x:Name="txtThu3" Text="Th3" FontSize="20" TextAlignment="Center" Foreground="#FF1443E3" Height="30"/>
+                    </StackPanel>
+                </Button>
+
+                <Button x:Name="btnNgay4" Height="100" Width="110" Margin="5,5,5,5" Style="{StaticResource MaterialDesignRaisedDarkButton}" Background="AliceBlue" Click="btnNgay4_Click">
+                    <StackPanel Width="68" Height="60">
+                        <TextBlock x:Name="txtNgay4" Text="5/1" FontSize="20" TextAlignment="Center" Foreground="#FF1443E3" Height="30"/>
+                        <TextBlock x:Name="txtThu4" Text="Th3" FontSize="20" TextAlignment="Center" Foreground="#FF1443E3" Height="30"/>
+                    </StackPanel>
+                </Button>
+
+                <Button x:Name="btnNgay5" Height="100" Width="110" Margin="5,5,5,5" Style="{StaticResource MaterialDesignRaisedDarkButton}" Background="AliceBlue" Click="btnNgay5_Click">
+                    <StackPanel Width="68" Height="60">
+                        <TextBlock x:Name="txtNgay5" Text="5/1" FontSize="20" TextAlignment="Center" Foreground="#FF1443E3" Height="30"/>
+                        <TextBlock x:Name="txtThu5" Text="Th3" FontSize="20" TextAlignment="Center" Foreground="#FF1443E3" Height="30"/>
+                    </StackPanel>
+                </Button>
+
+                <Button x:Name="btnNgay6" Height="100" Width="110" Margin="5,5,5,5" Style="{StaticResource MaterialDesignRaisedDarkButton}" Background="AliceBlue" Click="btnNgay6_Click">
+                    <StackPanel Width="68" Height="60">
+                        <TextBlock x:Name="txtNgay6" Text="5/1" FontSize="20" TextAlignment="Center" Foreground="#FF1443E3" Height="30"/>
+                        <TextBlock x:Name="txtThu6" Text="Th3" FontSize="20" TextAlignment="Center" Foreground="#FF1443E3" Height="30"/>
+                    </StackPanel>
+                </Button>
+
+                <Button x:Name="btnNgay7" Height="100" Width="110" Margin="5,5,5,5" Style="{StaticResource MaterialDesignRaisedDarkButton}" Background="AliceBlue" Click="btnNgay7_Click">
+                    <StackPanel Width="68" Height="60">
+                        <TextBlock x:Name="txtNgay7" Text="5/1" FontSize="20" TextAlignment="Center" Foreground="#FF1443E3" Height="30"/>
+                        <TextBlock x:Name="txtThu7" Text="Th3" FontSize="20" TextAlignment="Center" Foreground="#FF1443E3" Height="30"/>
+                    </StackPanel>
+                </Button>
+
+
+            </WrapPanel>
+        </Grid>
+        <Button x:Name="bt_back"
+  Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}"
+   Margin="29,30,881.4,550" Click="bt_back_Click">
+            <materialDesign:PackIcon
+    Kind="ArrowBack"
+    Height="24"
+    Width="24" />
+        </Button>
+
+        <materialDesign:PackIcon Width="50" Height="55" Foreground="White" Kind="calendar" Margin="220,45,0,0"></materialDesign:PackIcon>
+        <TextBlock Text="Chọn ngày chiếu, ca chiếu" TextAlignment="Center" FontFamily="Time new roman" FontSize="40" HorizontalAlignment="Left" Height="55" Margin="275,45,0,0" VerticalAlignment="Top" Width="500" Foreground="#DDF9F9F9" FontWeight="Bold"/>
+        <StackPanel x:Name="pnThongTin" Margin="78,285,92,10">
+
+            <Border
+      Background="{DynamicResource MaterialDesignDivider}"
+      Height="1"
+      HorizontalAlignment="Stretch"
+      SnapsToDevicePixels="True" />
+
+            <Expander x:Name="ExpanderCinemaThuDuc"
+      HorizontalAlignment="Stretch"
+      Header="Cinema Thủ Đức" Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}">
+                <StackPanel Background="#FFF7F1F1" Height="149">
+                    <TextBox Text="   123/2 P.Linh Trung, Q.Thủ Đức, Tp.Hồ Chí Minh" BorderBrush="{x:Null}" />
+                    <TextBox Text="   2D Phụ Đề Anh" BorderBrush="{x:Null}"/>
+                    <WrapPanel x:Name="panelChonNgayChieu_CaChieu_ThuDuc"
+        Orientation="Vertical"
+        TextBlock.Foreground="{DynamicResource MaterialDesignBody}"
+        Margin="24,8,0,16" Height="63">
+
+                    </WrapPanel>
+                </StackPanel>
+            </Expander>
+        </StackPanel>
+    </Grid>
+</UserControl>

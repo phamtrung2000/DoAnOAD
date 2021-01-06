@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="QuanLyCinema.Giao_Diện_Khách_hàng.frmXemThongTinPhim"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QuanLyCinema.Giao_Diện_Khách_hàng"
+              xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" 
+            d:DesignHeight="620" Width="960">
+    <Grid Background="Black" Margin="0,0,10,0">
+        <Grid x:Name="Grid_hienthi" HorizontalAlignment="Left" Height="620" VerticalAlignment="Top" Width="950" Background="#FF3F3B3B">
+            <ScrollViewer HorizontalScrollBarVisibility="Auto" Height="auto" Width="auto" Margin="0,94,0,0">
+                <Grid x:Name="Grid_DanhSachPhim" Background="Black" Loaded="Grid_DanhSachPhim_Loaded">
+                    <WrapPanel x:Name="WrapPanel_DanhSachPhim" Width="913">
+
+                    </WrapPanel>
+                </Grid>
+
+            </ScrollViewer>
+            <TextBox HorizontalAlignment="Left" Height="45" Margin="40,21,0,0" Style="{StaticResource MaterialDesignOutlinedTextFieldTextBox}" FontSize="14" materialDesign:HintAssist.Hint="Tìm kiếm" materialDesign:HintAssist.Foreground="White" materialDesign:HintAssist.Background="#FF3F3B3B"  Foreground="White" TextWrapping="Wrap" VerticalAlignment="Top" Width="347" BorderBrush="#89F7F5F5"/>
+        </Grid>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,57 @@
+﻿<UserControl x:Class="QuanLyCinema.frmLichSuDatVe"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QuanLyCinema"
+             mc:Ignorable="d" 
+             d:DesignHeight="620" d:DesignWidth="950">
+    <Grid x:Name="GridLichSuDatVe" Background="#FFF9F3F3" >
+        <GroupBox x:Name="grpThongTinKH" Header="Thông tin chi tiết"
+                  Margin="10,10,490,20"  
+                  Width="450">
+
+            <Grid>
+                <StackPanel Margin="0,32,0,0">
+                    <DockPanel Height="55">
+                        <TextBlock  x:Name="lblMaKH" Text="Mã vé:" TextAlignment="Center" FontSize="20" Width="121" Margin="0,10"/>
+                        <TextBox x:Name="txtMaVe" TextAlignment="Center" Width="281" TextWrapping="Wrap" Text="" MaxWidth="300" MaxHeight="25" Margin="0,10"/>
+                    </DockPanel>
+
+                    <DockPanel Height="55">
+                        <TextBlock x:Name="lblNgayChieu" Text="Ngày chiếu:" TextAlignment="Center" FontSize="20" Width="126" Margin="0,10"/>
+                        <TextBox x:Name="txtNgayChieu" TextAlignment="Center" Width="276" TextWrapping="Wrap" Text="" MaxWidth="300" MaxHeight="25" Margin="0,10"/>
+                    </DockPanel>
+
+                    <DockPanel Height="55">
+                        <TextBlock x:Name="lblDanhSachGhe" Text="Ghế đặt:" TextAlignment="Center" FontSize="20" Width="126" Margin="0,10"/>
+                        <TextBox x:Name="txtDanhSachGhe" TextAlignment="Center" Width="286" TextWrapping="Wrap" Text="" MaxWidth="300" MaxHeight="25" Margin="0,10"/>
+                    </DockPanel>
+
+                    <DockPanel Height="55">
+                        <TextBlock x:Name="lblPhim" Text="Phim:" TextAlignment="Center" FontSize="20" Width="126" Margin="0,10"/>
+                        <TextBox x:Name="txtTenPhim" TextAlignment="Center" Width="286" TextWrapping="Wrap" Text="" MaxWidth="300" MaxHeight="25" Margin="0,10"/>
+                    </DockPanel>
+
+                    <DockPanel Height="55">
+                        <TextBlock x:Name="lblPhongChieu" Text="Phòng chiếu:" TextAlignment="Center" FontSize="20" Width="126" Margin="0,10"/>
+                        <TextBox x:Name="txtPhongChieu" TextAlignment="Center" Width="286" TextWrapping="Wrap" Text="" MaxWidth="300" MaxHeight="25" Margin="0,10"/>
+                    </DockPanel>
+
+                    <DockPanel Height="55">
+                        <TextBlock x:Name="lblCaChieu" Text="Ca chiếu:" TextAlignment="Center" FontSize="20" Width="126" Margin="0,10"/>
+                        <TextBox x:Name="txtCaChieu" TextAlignment="Center" Width="286" TextWrapping="Wrap" Text="" MaxWidth="300" MaxHeight="25" Margin="0,10"/>
+                    </DockPanel>
+                </StackPanel>
+            </Grid>
+        </GroupBox>
+
+        <GroupBox x:Name="grpLichSuDatVe" Header="Lịch sử đặt vé" Margin="480,10,20,20" Width="450" Loaded="grpLichSuDatVe_Loaded">
+            <DataGrid x:Name="dtgLSDV" Height="535" VerticalAlignment="Top" Width="420" 
+                      HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch"
+                      SelectedCellsChanged="dtgLSDV_SelectedCellsChanged"/>
+        </GroupBox>
+
+    </Grid>
+
+</UserControl>

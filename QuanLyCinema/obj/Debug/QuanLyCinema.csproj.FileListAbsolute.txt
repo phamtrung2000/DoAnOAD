@@ -1,0 +1,200 @@
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\QuanLyCinema.exe.config
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\QuanLyCinema.exe
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\QuanLyCinema.pdb
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\BUS.dll
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\DTO.dll
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\MaterialDesignColors.dll
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\DAO.dll
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\BUS.pdb
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\DTO.pdb
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\bin\Debug\DAO.pdb
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\DangNhapKhachHang\Login_KhachHang.g.cs
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\DangNhapKhachHang\frmDangKy.g.cs
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\DangNhapKhachHang\frmTaoTaiKhoanKhachHang.g.cs
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmDatVe.g.cs
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmChon_NgayChieu_CaChieu.g.cs
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmChonChoNgoi.g.cs
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmThanhToan.g.cs
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmThongTinPhim.g.cs
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmXacNhanThanhToan.g.cs
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmXemLichChieu.g.cs
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmXemThongTinPhim.g.cs
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\GiaoDienChinh_KhachHang.g.cs
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\Login.g.cs
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\App.g.cs
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\QuanLyCinema_MarkupCompile.cache
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\QuanLyCinema_MarkupCompile.lref
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\App.baml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\DangNhapKhachHang\Login_KhachHang.baml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\DangNhapKhachHang\frmDangKy.baml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\DangNhapKhachHang\frmTaoTaiKhoanKhachHang.baml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmDatVe.baml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmChon_NgayChieu_CaChieu.baml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmChonChoNgoi.baml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmThanhToan.baml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmThongTinPhim.baml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmXacNhanThanhToan.baml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmXemLichChieu.baml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmXemThongTinPhim.baml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\GiaoDienChinh_KhachHang.baml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\Login.baml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\QuanLyCinema.g.resources
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\QuanLyCinema.Properties.Resources.resources
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\QuanLyCinema.csproj.GenerateResource.cache
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\QuanLyCinema.csproj.CoreCompileInputs.cache
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\QuanLyCinema.csproj.CopyComplete
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\QuanLyCinema.exe
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\QuanLyCinema.pdb
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\QuanLyCinema.csprojAssemblyReference.cache
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\frmThongTinCaNhan.g.cs
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\frmThongTinCaNhan.baml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\frmLichSuDatVe.g.cs
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\QuanLyCinema\obj\Debug\frmLichSuDatVe.baml
+D:\DoAnOAD\QuanLyCinema\bin\Debug\QuanLyCinema.exe.config
+D:\DoAnOAD\QuanLyCinema\bin\Debug\QuanLyCinema.exe
+D:\DoAnOAD\QuanLyCinema\bin\Debug\QuanLyCinema.pdb
+D:\DoAnOAD\QuanLyCinema\bin\Debug\BUS.dll
+D:\DoAnOAD\QuanLyCinema\bin\Debug\DTO.dll
+D:\DoAnOAD\QuanLyCinema\bin\Debug\MaterialDesignColors.dll
+D:\DoAnOAD\QuanLyCinema\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\DoAnOAD\QuanLyCinema\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\DoAnOAD\QuanLyCinema\bin\Debug\Newtonsoft.Json.dll
+D:\DoAnOAD\QuanLyCinema\bin\Debug\System.Data.SqlClient.dll
+D:\DoAnOAD\QuanLyCinema\bin\Debug\System.Net.Http.Formatting.dll
+D:\DoAnOAD\QuanLyCinema\bin\Debug\System.Windows.Interactivity.dll
+D:\DoAnOAD\QuanLyCinema\bin\Debug\DAO.dll
+D:\DoAnOAD\QuanLyCinema\bin\Debug\BUS.pdb
+D:\DoAnOAD\QuanLyCinema\bin\Debug\DTO.pdb
+D:\DoAnOAD\QuanLyCinema\bin\Debug\MaterialDesignColors.pdb
+D:\DoAnOAD\QuanLyCinema\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\DoAnOAD\QuanLyCinema\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\DoAnOAD\QuanLyCinema\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\DoAnOAD\QuanLyCinema\bin\Debug\Newtonsoft.Json.xml
+D:\DoAnOAD\QuanLyCinema\bin\Debug\System.Net.Http.Formatting.xml
+D:\DoAnOAD\QuanLyCinema\bin\Debug\System.Windows.Interactivity.xml
+D:\DoAnOAD\QuanLyCinema\bin\Debug\DAO.pdb
+D:\DoAnOAD\QuanLyCinema\obj\Debug\QuanLyCinema.csprojAssemblyReference.cache
+D:\DoAnOAD\QuanLyCinema\obj\Debug\DangNhapKhachHang\Login_KhachHang.g.cs
+D:\DoAnOAD\QuanLyCinema\obj\Debug\DangNhapKhachHang\frmDangKy.g.cs
+D:\DoAnOAD\QuanLyCinema\obj\Debug\DangNhapKhachHang\frmTaoTaiKhoanKhachHang.g.cs
+D:\DoAnOAD\QuanLyCinema\obj\Debug\frmLichSuDatVe.g.cs
+D:\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmDatVe.g.cs
+D:\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmChon_NgayChieu_CaChieu.g.cs
+D:\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmChonChoNgoi.g.cs
+D:\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmThanhToan.g.cs
+D:\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmThongTinPhim.g.cs
+D:\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmXacNhanThanhToan.g.cs
+D:\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmXemLichChieu.g.cs
+D:\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmXemThongTinPhim.g.cs
+D:\DoAnOAD\QuanLyCinema\obj\Debug\GiaoDienChinh_KhachHang.g.cs
+D:\DoAnOAD\QuanLyCinema\obj\Debug\Login.g.cs
+D:\DoAnOAD\QuanLyCinema\obj\Debug\frmThongTinCaNhan.g.cs
+D:\DoAnOAD\QuanLyCinema\obj\Debug\App.g.cs
+D:\DoAnOAD\QuanLyCinema\obj\Debug\QuanLyCinema_MarkupCompile.cache
+D:\DoAnOAD\QuanLyCinema\obj\Debug\QuanLyCinema_MarkupCompile.lref
+D:\DoAnOAD\QuanLyCinema\obj\Debug\App.baml
+D:\DoAnOAD\QuanLyCinema\obj\Debug\DangNhapKhachHang\Login_KhachHang.baml
+D:\DoAnOAD\QuanLyCinema\obj\Debug\DangNhapKhachHang\frmDangKy.baml
+D:\DoAnOAD\QuanLyCinema\obj\Debug\DangNhapKhachHang\frmTaoTaiKhoanKhachHang.baml
+D:\DoAnOAD\QuanLyCinema\obj\Debug\frmLichSuDatVe.baml
+D:\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmDatVe.baml
+D:\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmChon_NgayChieu_CaChieu.baml
+D:\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmChonChoNgoi.baml
+D:\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmThanhToan.baml
+D:\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmThongTinPhim.baml
+D:\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmXacNhanThanhToan.baml
+D:\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmXemLichChieu.baml
+D:\DoAnOAD\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmXemThongTinPhim.baml
+D:\DoAnOAD\QuanLyCinema\obj\Debug\GiaoDienChinh_KhachHang.baml
+D:\DoAnOAD\QuanLyCinema\obj\Debug\Login.baml
+D:\DoAnOAD\QuanLyCinema\obj\Debug\frmThongTinCaNhan.baml
+D:\DoAnOAD\QuanLyCinema\obj\Debug\QuanLyCinema.g.resources
+D:\DoAnOAD\QuanLyCinema\obj\Debug\QuanLyCinema.Properties.Resources.resources
+D:\DoAnOAD\QuanLyCinema\obj\Debug\QuanLyCinema.csproj.GenerateResource.cache
+D:\DoAnOAD\QuanLyCinema\obj\Debug\QuanLyCinema.csproj.CopyComplete
+D:\DoAnOAD\QuanLyCinema\obj\Debug\QuanLyCinema.exe
+D:\DoAnOAD\QuanLyCinema\obj\Debug\QuanLyCinema.pdb
+D:\DoAnOAD\QuanLyCinema\bin\Debug\BUS.dll.config
+D:\DoAnOAD\QuanLyCinema\bin\Debug\DTO.dll.config
+D:\DoAnOAD\QuanLyCinema\bin\Debug\DAO.dll.config
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\QuanLyCinema.csprojAssemblyReference.cache
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\DangNhapKhachHang\Login_KhachHang.g.cs
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\DangNhapKhachHang\frmDangKy.g.cs
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\DangNhapKhachHang\frmTaoTaiKhoanKhachHang.g.cs
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\frmLichSuDatVe.g.cs
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmDatVe.g.cs
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmChon_NgayChieu_CaChieu.g.cs
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmChonChoNgoi.g.cs
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmThanhToan.g.cs
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmThongTinPhim.g.cs
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmXacNhanThanhToan.g.cs
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmXemLichChieu.g.cs
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmXemThongTinPhim.g.cs
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\GiaoDienChinh_KhachHang.g.cs
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\Login.g.cs
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\frmThongTinCaNhan.g.cs
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\App.g.cs
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\QuanLyCinema_MarkupCompile.cache
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\QuanLyCinema_MarkupCompile.lref
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\QuanLyCinema.exe
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\QuanLyCinema.pdb
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\QuanLyCinema.exe.config
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\QuanLyCinema.exe
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\QuanLyCinema.pdb
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\BUS.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\DTO.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\MaterialDesignColors.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\DAO.dll
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\BUS.pdb
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\BUS.dll.config
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\DTO.pdb
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\DTO.dll.config
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\DAO.pdb
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\bin\Debug\DAO.dll.config
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\App.baml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\DangNhapKhachHang\Login_KhachHang.baml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\DangNhapKhachHang\frmDangKy.baml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\DangNhapKhachHang\frmTaoTaiKhoanKhachHang.baml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\frmLichSuDatVe.baml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmDatVe.baml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmChon_NgayChieu_CaChieu.baml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmChonChoNgoi.baml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmThanhToan.baml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmThongTinPhim.baml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmXacNhanThanhToan.baml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmXemLichChieu.baml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\Giao Diện Khách hàng\frmXemThongTinPhim.baml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\GiaoDienChinh_KhachHang.baml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\Login.baml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\frmThongTinCaNhan.baml
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\QuanLyCinema.g.resources
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\QuanLyCinema.Properties.Resources.resources
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\QuanLyCinema.csproj.GenerateResource.cache
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\QuanLyCinema.csproj.CoreCompileInputs.cache
+C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\QuanLyCinema\obj\Debug\QuanLyCinema.csproj.CopyComplete

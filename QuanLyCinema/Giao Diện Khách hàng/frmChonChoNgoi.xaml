@@ -1,0 +1,69 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QuanLyCinema.Giao_Diện_Khách_hàng"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+    x:Class="QuanLyCinema.Giao_Diện_Khách_hàng.frmChonChoNgoi"
+             mc:Ignorable="d" 
+             d:DesignHeight="620" d:DesignWidth="950">
+    <Grid x:Name="GridChonChoNgoi" Loaded="GridChonChoNgoi_Loaded" >
+
+        <Grid x:Name="Grid_DanhSachGhe" Background="Transparent" Loaded="Grid_DanhSachGhe_Loaded" Margin="69,185,312,30">
+            <WrapPanel x:Name="WrapPanel_DanhSachGhe" RenderTransformOrigin="0.492,0.44">
+
+            </WrapPanel>
+        </Grid>
+
+        <TextBox x:Name="txtManhinh" HorizontalAlignment="Left" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"  Height="37" Margin="48,125,0,0" TextWrapping="Wrap" Text="Màn Hình" VerticalAlignment="Top" Width="590" Background="#FFFDF6F6" Foreground="#FF464141"/>
+        <Label Content="A" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="14" HorizontalAlignment="Left" Height="40" Margin="10,190,0,0" VerticalAlignment="Top" Width="40" Background="#FF282525" Foreground="#DDFAF5F5"/>
+        <Label Content="B" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="14" HorizontalAlignment="Left" Height="40" Margin="10,240,0,0" VerticalAlignment="Top" Width="40" Background="#FF282525" Foreground="#DDFAF5F5"/>
+        <Label Content="C" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="14" HorizontalAlignment="Left" Height="40" Margin="10,290,0,0" VerticalAlignment="Top" Width="40" Background="#FF282525" Foreground="#DDFAF5F5"/>
+        <Label Content="D" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="14" HorizontalAlignment="Left" Height="40" Margin="10,341,0,0" VerticalAlignment="Top" Width="40" Background="#FF282525" Foreground="#DDFAF5F5"/>
+        <Label Content="E" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="14" HorizontalAlignment="Left" Height="40" Margin="10,395,0,0" VerticalAlignment="Top" Width="40" Background="#FF282525" Foreground="#DDFAF5F5"/>
+        <Label Content="F" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="14" HorizontalAlignment="Left" Height="40" Margin="10,442,0,0" VerticalAlignment="Top" Width="40" Background="#FF282525" Foreground="#DDFAF5F5"/>
+        <Label Content="G" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="14" HorizontalAlignment="Left" Height="40" Margin="10,492,0,0" VerticalAlignment="Top" Width="40" Background="#FF282525" Foreground="#DDFAF5F5"/>
+        <Label Content="H" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="14" HorizontalAlignment="Left" Height="40" Margin="10,546,0,0" VerticalAlignment="Top" Width="40" Background="#FF282525" Foreground="#DDFAF5F5" RenderTransformOrigin="0.5,1.35"/>
+
+        <Label Content="Ghế có thể đặt" HorizontalAlignment="Left"  HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Height="35" Margin="170,25,0,0" VerticalAlignment="Top" Width="105" Foreground="#DDF3EBEB"/>
+        <Label  HorizontalAlignment="Left" Height="35" Margin="127,25,0,0" VerticalAlignment="Top" Width="38" Background="#FFFAF3F3"/>
+        <Label  HorizontalAlignment="Left" Height="35" Margin="325,25,0,0" VerticalAlignment="Top" Width="37" Background="Green"/>
+        <Label Content="Ghế bạn chọn" HorizontalAlignment="Left"  HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Height="35" Margin="367,25,0,0" VerticalAlignment="Top" Width="88" Foreground="#DDF3EBEB"/>
+        <Label Content="Đã bán" HorizontalAlignment="Left"  HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Height="35" Margin="523,25,0,0" VerticalAlignment="Top" Width="75" Foreground="#DDF3EBEB"/>
+        <Label  HorizontalAlignment="Left" Height="35" Margin="480,25,0,0" VerticalAlignment="Top" Width="38" Background="#FFF2F2F4" RenderTransformOrigin="-3.153,1.589" IsEnabled="False"/>
+
+        <Grid HorizontalAlignment="Left" Height="161" Margin="689,44,0,0" VerticalAlignment="Top" Width="251" Background="#FFFCF6F6">
+            <Label Name="lblTenPhim" Content="Tên phim" Foreground="Red" HorizontalAlignment="Left" Height="27" Margin="10,7,0,0" VerticalAlignment="Top" Width="231"/>
+            <Label Content="Cinema Linh Trung" FontStyle="Italic" HorizontalAlignment="Left" Height="27" Margin="10,37,0,0" VerticalAlignment="Top" Width="231"/>
+            <Label Name="lblCaChieu" Content="Ca chiếu" Foreground="Blue" HorizontalAlignment="Left" Height="27" Margin="10,64,0,0" VerticalAlignment="Top" Width="231"/>
+            <Label Name="lblNgayChieu" Content="Ngày chiếu" Foreground="Blue" HorizontalAlignment="Left" Height="27" Margin="10,93,0,0" VerticalAlignment="Top" Width="231"/>
+
+            <Label Name="lblPhongChieu" Content="Phòng chiếu" Foreground="Gray" HorizontalAlignment="Left" Height="27" Margin="10,124,0,0" VerticalAlignment="Top" Width="101"/>
+            <TextBox x:Name="txtHienThiGheDaChon" HorizontalAlignment="Left" Height="27" Margin="126,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="115" TextChanged="txtHienThiGheDaChon_TextChanged"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="148" Margin="689,237,0,0" VerticalAlignment="Top" Width="251" Background="#FFF7F2F2">
+            <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="87" Margin="141,10,0,0" VerticalAlignment="Top" Width="100">
+                <Label Content="Thời gian" HorizontalAlignment="Left" Height="28" Margin="20,9,0,0" VerticalAlignment="Top" Width="70"/>
+
+            </Border>
+
+            <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="87" Margin="10,10,0,0" VerticalAlignment="Top" Width="110">
+                <Label Content="Tổng cộng" HorizontalAlignment="Left" Height="28" Margin="20,9,0,0" VerticalAlignment="Top" Width="70"/>
+
+            </Border>
+            <Button Name="btnTiepTuc" Content="Tiếp tục" HorizontalAlignment="Left" Height="28" Margin="10,110,0,0" VerticalAlignment="Top" Width="231" Click="btnTiepTuc_Click"/>
+        </Grid>
+        <Label Name="lblTongCong" Content="0" HorizontalContentAlignment="Center" FontSize="18" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="34" Margin="715,290,0,0" VerticalAlignment="Top" Width="80"/>
+        <Label Name="lblThoiGian" Content="0" HorizontalContentAlignment="Center" FontSize="18" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="34" Margin="840,290,0,0" VerticalAlignment="Top" Width="80"/>
+
+        <Button x:Name="bt_back"
+            Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}"
+            Margin="29,30,881.4,550" Click="bt_back_Click">
+            <materialDesign:PackIcon
+                Kind="ArrowBack"
+                Height="24"
+                Width="24" />
+        </Button>
+    </Grid>
+</UserControl>

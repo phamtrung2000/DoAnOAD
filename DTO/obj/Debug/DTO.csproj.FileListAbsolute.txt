@@ -1,0 +1,41 @@
+E:\Users\Acer\Documents\QuanLyCinema-master\QuanLyCinema-master\DTO\bin\Debug\DTO.dll
+E:\Users\Acer\Documents\QuanLyCinema-master\QuanLyCinema-master\DTO\bin\Debug\DTO.pdb
+E:\Users\Acer\Documents\QuanLyCinema-master\QuanLyCinema-master\DTO\bin\Debug\Newtonsoft.Json.dll
+E:\Users\Acer\Documents\QuanLyCinema-master\QuanLyCinema-master\DTO\bin\Debug\System.Data.SqlClient.dll
+E:\Users\Acer\Documents\QuanLyCinema-master\QuanLyCinema-master\DTO\bin\Debug\Newtonsoft.Json.xml
+E:\Users\Acer\Documents\QuanLyCinema-master\QuanLyCinema-master\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Users\Acer\Documents\QuanLyCinema-master\QuanLyCinema-master\DTO\obj\Debug\DTO.csproj.CopyComplete
+E:\Users\Acer\Documents\QuanLyCinema-master\QuanLyCinema-master\DTO\obj\Debug\DTO.dll
+E:\Users\Acer\Documents\QuanLyCinema-master\QuanLyCinema-master\DTO\obj\Debug\DTO.pdb
+C:\Users\Pham Quoc Trung\Downloads\aaaaaaaaaaaaaaa\QuanLyCinema\DTO\bin\Debug\DTO.dll
+C:\Users\Pham Quoc Trung\Downloads\aaaaaaaaaaaaaaa\QuanLyCinema\DTO\bin\Debug\DTO.pdb
+C:\Users\Pham Quoc Trung\Downloads\aaaaaaaaaaaaaaa\QuanLyCinema\DTO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pham Quoc Trung\Downloads\aaaaaaaaaaaaaaa\QuanLyCinema\DTO\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Pham Quoc Trung\Downloads\aaaaaaaaaaaaaaa\QuanLyCinema\DTO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pham Quoc Trung\Downloads\aaaaaaaaaaaaaaa\QuanLyCinema\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\Pham Quoc Trung\Downloads\aaaaaaaaaaaaaaa\QuanLyCinema\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Pham Quoc Trung\Downloads\aaaaaaaaaaaaaaa\QuanLyCinema\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\Pham Quoc Trung\Downloads\aaaaaaaaaaaaaaa\QuanLyCinema\DTO\obj\Debug\DTO.dll
+C:\Users\Pham Quoc Trung\Downloads\aaaaaaaaaaaaaaa\QuanLyCinema\DTO\obj\Debug\DTO.pdb
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\DTO\bin\Debug\DTO.dll
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\DTO\bin\Debug\DTO.pdb
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\DTO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\DTO\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\DTO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\DTO\obj\Debug\DTO.dll
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\DTO\obj\Debug\DTO.pdb
+D:\DoAnOAD\DTO\bin\Debug\DTO.dll
+D:\DoAnOAD\DTO\bin\Debug\DTO.pdb
+D:\DoAnOAD\DTO\bin\Debug\Newtonsoft.Json.dll
+D:\DoAnOAD\DTO\bin\Debug\System.Data.SqlClient.dll
+D:\DoAnOAD\DTO\bin\Debug\Newtonsoft.Json.xml
+D:\DoAnOAD\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\DoAnOAD\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\DoAnOAD\DTO\obj\Debug\DTO.dll
+D:\DoAnOAD\DTO\obj\Debug\DTO.pdb
+D:\DoAnOAD\DTO\bin\Debug\DTO.dll.config
+D:\DoAnOAD\DTO\bin\Debug\System.Net.Http.Formatting.dll
+D:\DoAnOAD\DTO\bin\Debug\System.Net.Http.Formatting.xml

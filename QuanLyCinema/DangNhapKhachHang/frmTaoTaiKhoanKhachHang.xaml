@@ -1,0 +1,33 @@
+﻿<Window x:Class="QuanLyCinema.DangNhapKhachHang.frmTaoTaiKhoanKhachHang"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:QuanLyCinema"
+        mc:Ignorable="d"
+        Title="Tạo tài khoản" Height="473.7" Width="580.276">
+    <Grid Margin="0,0,-0.4,0">
+        <Button x:Name="btBack"
+  Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" Margin="28,10,498,386" Height="Auto" Width="Auto" Click="btBack_Click"
+  >
+            <materialDesign:PackIcon
+    Kind="ArrowBack"
+    Height="24"
+    Width="24" />
+        </Button>
+        <Grid HorizontalAlignment="Left" Height="359" Margin="10,63,0,0" VerticalAlignment="Top" Width="554" Background="#FF0A1376">
+            
+            
+            <materialDesign:PackIcon Kind="SignText" Width="58" Height="67" Margin="81,10,0,0" Foreground="#FFF7F6F6"></materialDesign:PackIcon>
+            
+            <Label Content="Tạo tài khoản" FontSize="30" VerticalContentAlignment="Center" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Height="67" Margin="139,10,0,0" VerticalAlignment="Top" Width="280" Foreground="#DDF7F6F6"/>
+            <TextBox x:Name="txtTenTaiKhoan" HorizontalAlignment="Left" Height="43" Margin="81,89,0,0" Style="{StaticResource MaterialDesignOutlinedTextFieldTextBox}" TextWrapping="Wrap" materialDesign:HintAssist.Hint="nhập tên tài khoản" materialDesign:HintAssist.Background="#FFFDF9F9" materialDesign:HintAssist.Foreground="Red" VerticalAlignment="Top" Width="386" Background="#FFF9F7F7"/>
+            <TextBox x:Name="txtMatKhau" HorizontalAlignment="Left" Height="43" Margin="81,162,0,0" Style="{StaticResource ResourceKey=MaterialDesignOutlinedTextFieldTextBox}" TextWrapping="Wrap" materialDesign:HintAssist.Hint="Nhập mật khẩu" materialDesign:HintAssist.Background="#FFFDF9F9" materialDesign:HintAssist.Foreground="Red" VerticalAlignment="Top" Width="386" Background="#FFFCFAFA"/>
+            <TextBox x:Name="txtXacNhanMatKhau" HorizontalAlignment="Left" Height="43" Margin="81,229,0,0" Style="{StaticResource ResourceKey=MaterialDesignOutlinedTextFieldTextBox}" TextWrapping="Wrap" materialDesign:HintAssist.Hint="Xác nhận mật khẩu" materialDesign:HintAssist.Background="#FFFDF9F9" materialDesign:HintAssist.Foreground="Red" VerticalAlignment="Top" Width="386" Background="#FFFDF9F9"/>
+            <Button Name="btnDangKy" Content="Đăng Ký" HorizontalAlignment="Left" Height="47" Margin="346,290,0,0" VerticalAlignment="Top" Width="121" Background="#FF55B719" Click="btnDangKy_Click"/>
+        </Grid>
+
+    </Grid>
+</Window>
