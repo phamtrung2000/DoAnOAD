@@ -284,6 +284,7 @@ namespace QuanLyCinema.Giao_Diện_Khách_hàng
         string MaLC = null;
         private void btnXacNhan_Click(object sender, RoutedEventArgs e)
         {
+            XacNhan = false;
             frmXacNhanThanhToan frmXacNhanThanhToan = new frmXacNhanThanhToan();
             frmXacNhanThanhToan.Sender_TenPhim_CaChieu_NgayChieu_TenPhongChieu(TenPhim, CaChieu, NgayChieu, TenPhongChieu);
             frmXacNhanThanhToan.Sender_ListMaGhe(ListMaGhe);

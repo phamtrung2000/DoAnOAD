@@ -305,7 +305,7 @@ GO
 create PROC Them_khachhang( @makh varchar(10),@hoten NVARCHAR(40),@diachi NVARCHAR(100),@ngaysinh DATE,@gioitinh nvarchar(4), @sdt varchar(20),@ngaydk date)
 as
 begin
- insert into KHACHHANGTHANTHIET(MAKH,HOTEN,DIACHI,SDT,NGAYSINH,GIOITINH,LOAIKH,NGAYDK) 
+ insert into KHACHHANGTHANTHIET(MAKH,HOTEN,DIACHI,SDT,NGAYSINH,GIOITINH,NGAYDK) 
  VALUES (@makh,@hoten,@diachi,@sdt,@ngaysinh,@gioitinh,@ngaydk)
 end
 
@@ -3454,5 +3454,5 @@ INSERT INTO CT_VE(MAVE,MAGHE,NGAYCHIEU,THANHTIEN) VALUES('HD5','A1PC1CC1','08/01
 go
 select * from GHE
 select * from KHACHHANGTHANTHIET
-
-
+set dateformat dmy
+ EXEC Them_khachhang 'KH6',N'pham quoc trung',N'123123','1/7/2021 12:00:00 AM',N'Nam','123123','1/7/2021 9:07:39 AM'
