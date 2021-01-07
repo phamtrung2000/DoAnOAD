@@ -39,3 +39,6 @@ D:\DoAnOAD\DTO\obj\Debug\DTO.pdb
 D:\DoAnOAD\DTO\bin\Debug\DTO.dll.config
 D:\DoAnOAD\DTO\bin\Debug\System.Net.Http.Formatting.dll
 D:\DoAnOAD\DTO\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\DTO\bin\Debug\DTO.dll.config
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\DTO\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\DTO\bin\Debug\System.Net.Http.Formatting.xml

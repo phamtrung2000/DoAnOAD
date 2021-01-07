@@ -21,7 +21,7 @@ namespace QuanLyCinema.DangNhapKhachHang
     /// </summary>
     public partial class frmTaoTaiKhoanKhachHang : Window
     {
-        public delegate void GuiMaKH_HoTen_DiaChi_GioiTinh_SDT_NgaySinh(string makh,string hoten,string diachi,string gioitinh,string sdt,DateTime ngaysinh);
+        public delegate void GuiMaKH_HoTen_DiaChi_GioiTinh_SDT_NgaySinh(string makh,string hoten,string diachi,string gioitinh,string sdt,string ngaysinh);
 
         public GuiMaKH_HoTen_DiaChi_GioiTinh_SDT_NgaySinh Sender;
 
@@ -30,9 +30,9 @@ namespace QuanLyCinema.DangNhapKhachHang
         public static string DiaChi = null;
         public static string GioiTinh = null;
         public static string SDT = null;
-        public static DateTime NgaySinh;
+        public static string NgaySinh;
 
-        private void GetMaKH_HoTen_DiaChi_GioiTinh_SDT_NgaySinh(string makh, string hoten, string diachi, string gioitinh, string sdt, DateTime ngaysinh)
+        private void GetMaKH_HoTen_DiaChi_GioiTinh_SDT_NgaySinh(string makh, string hoten, string diachi, string gioitinh, string sdt, string ngaysinh)
         {
             MaKH = makh;
             HoTen = hoten;
@@ -58,7 +58,6 @@ namespace QuanLyCinema.DangNhapKhachHang
             Login_KhachHang lg = new Login_KhachHang();
             lg.Show();
         }
-        // con đỉ mẹ// t éo bt 
         string TaiKhoan, MatKhau = null;
         private void btnDangKy_Click(object sender, RoutedEventArgs e)
         {

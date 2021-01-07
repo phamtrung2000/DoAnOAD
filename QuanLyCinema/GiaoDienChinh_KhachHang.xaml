@@ -78,6 +78,7 @@
                                     <TextBlock Text="Xem Thông tin phim" FontSize="16" VerticalAlignment="Center" Margin="20 0"/>
                                 </StackPanel>
                             </ListViewItem>
+                            
                             <ListViewItem Height="60" Width="240" HorizontalAlignment="Left" x:Name="btnLoaiphim">
                                 <StackPanel Orientation="Horizontal" Width="220">
                                     <materialDesign:PackIcon Kind="MovieSearch" HorizontalAlignment="Left" Height="35" VerticalAlignment="Top" Width="40"/>
@@ -119,8 +120,6 @@
             <Button x:Name="bt_logout" HorizontalAlignment="Left" Height="32" Style="{StaticResource ResourceKey=MaterialDesignToolButton}" Margin="1060,115,0,0" VerticalAlignment="Top" Width="36" Background="{x:Null}" BorderBrush="{x:Null}" Click="bt_logout_Click">
                 <materialDesign:PackIcon Kind="Logout" HorizontalAlignment="Left" Height="23" VerticalAlignment="Top" Width="25" Foreground="#FFFCF4F4"/>
             </Button>
-            <TextBox x:Name="txtTen" HorizontalAlignment="Left" Height="34" Margin="955,10,0,0" TextWrapping="Wrap" FontSize="10" Foreground="White"   VerticalAlignment="Top" Width="187" BorderBrush="#89F7F3F3"/>
-            <TextBox x:Name="txtChucVu_in" HorizontalAlignment="Left" Height="34" Margin="955,62,0,0" TextWrapping="Wrap" FontSize="10" Foreground="White" VerticalAlignment="Top" Width="187" BorderBrush="#89F7F3F3"/>
 
         </Grid>
 

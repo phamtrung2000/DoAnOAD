@@ -29,7 +29,7 @@ namespace QuanLyCinema.DangNhapKhachHang
         string DiaChi = null;
         string GioiTinh = null;
         string SDT = null;
-        DateTime NgaySinh;
+        string NgaySinh = null;
 
 
         void LaySoLuongKH()
@@ -75,7 +75,7 @@ namespace QuanLyCinema.DangNhapKhachHang
             else if (rdbNu.IsChecked == true)
                 GioiTinh = "Nữ";
 
-            NgaySinh = dtpNgaySinh.DisplayDate;
+            NgaySinh = dtpNgaySinh.DisplayDate.ToString();
 
             
             if (txtSDT.Text.Length != 0)
@@ -88,7 +88,7 @@ namespace QuanLyCinema.DangNhapKhachHang
                 DiaChi = txtDiaChi.Text;
             }
 
-            KhachHangDTO kh = new KhachHangDTO(MaKH, HoTen, DiaChi, NgaySinh, GioiTinh, SDT, "", DateTime.Now);
+            KhachHangDTO kh = new KhachHangDTO(MaKH, HoTen, DiaChi, NgaySinh, GioiTinh, SDT, DateTime.Now);
 
             if (HoTen == null)
             {

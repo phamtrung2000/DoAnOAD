@@ -41,7 +41,6 @@ namespace DAO
             SqlCommand command = connection.CreateCommand();
             command.CommandType = CommandType.Text;
 
-            command.CommandText = "EXEC ThemCTVe @MAVE,@MAGHE,@THANHTIEN";
             command.CommandText = "set dateformat dmy\n EXEC ThemCTVe '" + ctve.MaVe + "'" + ",'"
                 + ctve.MaGhe + "'" + ",'"
                 + ctve.NgayChieu_String + "'" + ",'"            

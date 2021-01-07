@@ -42,7 +42,7 @@ namespace DTO
         public string NgayDK_String { get => ngaydk_string; set => ngaydk_string = value; }
 
         // bản gốc
-        public KhachHangDTO(string maKH, string hoten, string diachi, DateTime ngaysinh, string gioitinh, string sdt, string loaikh, DateTime ngaydk)
+        public KhachHangDTO(string maKH, string hoten, string diachi, DateTime ngaysinh, string gioitinh, string sdt, DateTime ngaydk)
         {
             MaKH = maKH;
             HoTen = hoten;
@@ -50,7 +50,17 @@ namespace DTO
             Ngaysinh = ngaysinh;
             GioiTinh = gioitinh;
             SDT = sdt;
-            LoaiKH = loaikh;
+            Ngaydk = ngaydk;
+        }
+
+        public KhachHangDTO(string maKH, string hoten, string diachi, string ngaysinh, string gioitinh, string sdt, DateTime ngaydk)
+        {
+            MaKH = maKH;
+            HoTen = hoten;
+            DiaChi = diachi;
+            NgaySinh_String = ngaysinh;
+            GioiTinh = gioitinh;
+            SDT = sdt;
             Ngaydk = ngaydk;
         }
 

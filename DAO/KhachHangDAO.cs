@@ -35,29 +35,17 @@ namespace DAO
             // tạo câu lệnh Thêm
             SqlCommand command = connection.CreateCommand();
             command.CommandType = CommandType.Text;
-            command.CommandText = "EXEC Them_khachhang @MAKH,@HOTEN,@DIACHI,@NGAYSINH,@GIOITINH,@SDT,@LOAIKH,@NGAYDK";
-            //command.CommandText = "INSERT INTO KHACHHANGTHANTHIET VALUES(@MAKH,@HOTEN,@DIACHI,@NGAYSINH,@GIOITINH,@SDT,@LOAIKH,@NGAYDK)";
-
-            command.Parameters.Add("@MAKH", SqlDbType.VarChar, 10);
-            command.Parameters.Add("@HOTEN", SqlDbType.NVarChar, 40);
-            command.Parameters.Add("@DIACHI", SqlDbType.NVarChar, 100);
-            command.Parameters.Add("@NGAYSINH", SqlDbType.Date);
-            command.Parameters.Add("@GIOITINH", SqlDbType.NVarChar, 4);
-            command.Parameters.Add("@SDT", SqlDbType.VarChar, 20);
-            command.Parameters.Add("@LOAIKH", SqlDbType.NVarChar, 50);
-            command.Parameters.Add("@NGAYDK", SqlDbType.Date);
-
-            // gán giá trị
-            command.Parameters["@MAKH"].Value = khachhang.MaKH;
-            command.Parameters["@HOTEN"].Value = khachhang.HoTen;
-            command.Parameters["@DIACHI"].Value = khachhang.DiaChi;
-            command.Parameters["@NGAYSINH"].Value = khachhang.Ngaysinh;
-            command.Parameters["@GIOITINH"].Value = khachhang.GioiTinh;
-            command.Parameters["@SDT"].Value = khachhang.SDT;
-            command.Parameters["@LOAIKH"].Value = khachhang.LoaiKH;
-            command.Parameters["@NGAYDK"].Value = khachhang.Ngaydk;
+            //command.CommandText = "EXEC Them_khachhang @MAKH,@HOTEN,@DIACHI,@NGAYSINH,@GIOITINH,@SDT,@LOAIKH,@NGAYDK";
+           // 'KH5',N'pham quoc trung',N'123123','1/7/2021 12:00:00 AM',N'Nam','1231232','1/7/2021 9:04:22 AM'
+            command.CommandText = "set dateformat dmy\n EXEC Them_khachhang '" + khachhang.MaKH + "'" + ",N'"
+               + khachhang.HoTen + "'" + ",N'"
+               + khachhang.DiaChi + "'" + ",'"
+               + khachhang.NgaySinh_String + "',N'"
+               + khachhang.GioiTinh + "','"
+               + khachhang.SDT + "','"
+               + khachhang.Ngaydk + "'";
+          
             command.ExecuteNonQuery();
-
             // đóng kết nối
             connection.Close();
         }

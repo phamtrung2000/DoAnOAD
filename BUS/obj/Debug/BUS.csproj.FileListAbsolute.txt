@@ -77,3 +77,8 @@ C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\BUS\obj\Deb
 C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\BUS\obj\Debug\BUS.csproj.CopyComplete
 C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\BUS\obj\Debug\BUS.dll
 C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\BUS\obj\Debug\BUS.pdb
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\BUS\bin\Debug\BUS.dll.config
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\BUS\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\BUS\bin\Debug\DAO.dll.config
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\BUS\bin\Debug\DTO.dll.config
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\BUS\bin\Debug\System.Net.Http.Formatting.xml

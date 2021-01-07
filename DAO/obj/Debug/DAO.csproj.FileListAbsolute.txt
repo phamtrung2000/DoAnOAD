@@ -65,3 +65,7 @@ C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\DAO\obj\Deb
 C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\DAO\obj\Debug\DAO.csproj.CopyComplete
 C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\DAO\obj\Debug\DAO.dll
 C:\Users\Pham Quoc Trung\Downloads\DoAnOAD-master (1)\DoAnOAD-master\DAO\obj\Debug\DAO.pdb
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\DAO\bin\Debug\DAO.dll.config
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\DAO\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\DAO\bin\Debug\DTO.dll.config
+C:\Users\Pham Quoc Trung\Desktop\DoAnOAD\DAO\bin\Debug\System.Net.Http.Formatting.xml
