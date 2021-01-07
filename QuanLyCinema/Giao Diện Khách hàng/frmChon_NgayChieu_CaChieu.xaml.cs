@@ -262,7 +262,7 @@ namespace QuanLyCinema.Giao_Diện_Khách_hàng
                     button.Height = 45;
                     button.Margin = new Thickness(5, 5, 10, 5);
                     button.Click += Button_Click;
-                    if(batdau_temp.Hour <= DateTime.Now.Hour)
+                    if (batdau_temp.Hour <= DateTime.Now.Hour)
                     {
                         button.IsEnabled = false;
                     }
@@ -301,7 +301,7 @@ namespace QuanLyCinema.Giao_Diện_Khách_hàng
                     button.Height = 45;
                     button.Margin = new Thickness(5, 5, 10, 5);
                     button.Click += Button_Click;
-                  
+
                     panelChonNgayChieu_CaChieu_ThuDuc.Children.Add(button);
                 }
             }
@@ -382,7 +382,7 @@ namespace QuanLyCinema.Giao_Diện_Khách_hàng
         {
             btnNgay3.Background = Brushes.Black;
             btnNgay1.Background = btnNgay2.Background = btnNgay4.Background = btnNgay5.Background = btnNgay6.Background = btnNgay7.Background = Brushes.AliceBlue;
-            NgayChieu = txtNgay2.Text + "/" + DateTime.Now.Year.ToString();
+            NgayChieu = txtNgay3.Text + "/" + DateTime.Now.Year.ToString();
             panelChonNgayChieu_CaChieu_ThuDuc.Children.Clear();
             ExpanderCinemaThuDuc.IsExpanded = false;
             timer_nextday.Start();
@@ -392,7 +392,7 @@ namespace QuanLyCinema.Giao_Diện_Khách_hàng
         {
             btnNgay4.Background = Brushes.Black;
             btnNgay1.Background = btnNgay3.Background = btnNgay2.Background = btnNgay5.Background = btnNgay6.Background = btnNgay7.Background = Brushes.AliceBlue;
-            NgayChieu = txtNgay2.Text + "/" + DateTime.Now.Year.ToString();
+            NgayChieu = txtNgay4.Text + "/" + DateTime.Now.Year.ToString();
             panelChonNgayChieu_CaChieu_ThuDuc.Children.Clear();
             ExpanderCinemaThuDuc.IsExpanded = false;
             timer_nextday.Start();
@@ -402,7 +402,7 @@ namespace QuanLyCinema.Giao_Diện_Khách_hàng
         {
             btnNgay5.Background = Brushes.Black;
             btnNgay1.Background = btnNgay3.Background = btnNgay4.Background = btnNgay2.Background = btnNgay6.Background = btnNgay7.Background = Brushes.AliceBlue;
-            NgayChieu = txtNgay2.Text + "/" + DateTime.Now.Year.ToString();
+            NgayChieu = txtNgay5.Text + "/" + DateTime.Now.Year.ToString();
             panelChonNgayChieu_CaChieu_ThuDuc.Children.Clear();
             ExpanderCinemaThuDuc.IsExpanded = false;
             timer_nextday.Start();
@@ -412,7 +412,7 @@ namespace QuanLyCinema.Giao_Diện_Khách_hàng
         {
             btnNgay6.Background = Brushes.Black;
             btnNgay1.Background = btnNgay3.Background = btnNgay4.Background = btnNgay5.Background = btnNgay2.Background = btnNgay7.Background = Brushes.AliceBlue;
-            NgayChieu = txtNgay2.Text + "/" + DateTime.Now.Year.ToString();
+            NgayChieu = txtNgay6.Text + "/" + DateTime.Now.Year.ToString();
             panelChonNgayChieu_CaChieu_ThuDuc.Children.Clear();
             ExpanderCinemaThuDuc.IsExpanded = false;
             timer_nextday.Start();
@@ -422,7 +422,7 @@ namespace QuanLyCinema.Giao_Diện_Khách_hàng
         {
             btnNgay7.Background = Brushes.Black;
             btnNgay1.Background = btnNgay3.Background = btnNgay4.Background = btnNgay5.Background = btnNgay6.Background = btnNgay2.Background = Brushes.AliceBlue;
-            NgayChieu = txtNgay2.Text + "/" + DateTime.Now.Year.ToString();
+            NgayChieu = txtNgay7.Text + "/" + DateTime.Now.Year.ToString();
             panelChonNgayChieu_CaChieu_ThuDuc.Children.Clear();
             ExpanderCinemaThuDuc.IsExpanded = false;
             timer_nextday.Start();
